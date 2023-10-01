@@ -1,0 +1,26 @@
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\proyectotallerprogramacion.csproj.AssemblyReference.cache
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.clientes.resources
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Solicitud_creditos.resources
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tipo_credito.resources
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\proyectotallerprogramacion.csproj.GenerateResource.cache
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\proyectotallerprogramacion.csproj.CoreCompileInputs.cache
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\qwref  aczxc\Downloads\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\bin\Debug\proyecto taller.exe.config
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\bin\Debug\proyecto taller.exe
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\bin\Debug\proyecto taller.pdb
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\proyectotallerprogramacion.csproj.AssemblyReference.cache
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.clientes.resources
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Solicitud_creditos.resources
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tipo_credito.resources
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\proyectotallerprogramacion.csproj.GenerateResource.cache
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\proyectotallerprogramacion.csproj.CoreCompileInputs.cache
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\proyecto taller.exe
+C:\Users\qwref  aczxc\Downloads\entregable taller de programacion\proyecto taller\WindowsFormsApplication1\obj\Debug\proyecto taller.pdb
